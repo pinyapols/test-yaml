@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+secode/__init__.py
+secode/cli.py
+secode/core.py
+secretsencode.egg-info/PKG-INFO
+secretsencode.egg-info/SOURCES.txt
+secretsencode.egg-info/dependency_links.txt
+secretsencode.egg-info/entry_points.txt
+secretsencode.egg-info/requires.txt
+secretsencode.egg-info/top_level.txt

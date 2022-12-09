@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: secretsencode
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Črtomir Majer
+License: UNKNOWN
+Description: Encode Kubernetes secrets
+Platform: UNKNOWN
+Requires-Python: >3
+Provides-Extra: unit-tests
